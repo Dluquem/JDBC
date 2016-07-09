@@ -1,3 +1,4 @@
 # JDBC
 Curso de  Desarrollo de Aplicaciones Java para Escritorio
-Primera modificacion
+Primera modificación
+Segunda modificación
